@@ -1,0 +1,33 @@
+---
+title: "Milestone 2"
+author: "Yishak Ali"
+date: "9/24/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Project 1: Oscars So Local?: Film Awards by Country and Demographics - Richard Zhu
+
+Pros: I really liked the animations in the project. Using gganimate, the author was able to give a frame snapshot of 
+international film award nominee submissions by country where each snap shot is a year. I definitely want to use similar 
+animations to track drug costs thru the years for my project. I additionally liked the extent of modeling done to look into 
+the relationship between oscar winners and gender and year.
+
+Cons: I think the layout of the animations could have been organized a little better for clarity and better flow of understanding. 
+Similarly, the projects assumes the reader knows enough about film awards and the processes behind them. 
+Some background on them would have been useful for better understanding the analysis and findings.
+
+Project 2: The Coronavirus Project: Analyzing the Covid 19 Pandemic's Effect on US Unemployment - Michael Wu
+
+Pros: I appreciated the extensive data collecting needed to get unemployment claim data on every state for 12 weeks. 
+I also liked the easy of the layout since it did a good job of facilitating info flow from different parts of the project. 
+Tables were well trimmed and easy to flow. Findings and trends were explained and interpeted for their implications.
+
+Cons: One critic is the state by state segment of the project. The comparison of umemployment claims and covid case growth rate 
+is done for New York which was hard hit but not for other states. It would have been informative to also have seen how this relationship 
+works in states with varying severity in case numbers.
+
+Github Repo URL: https://github.com/YishakAli/milestone_2
